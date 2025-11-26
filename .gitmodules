@@ -4,3 +4,6 @@
 [submodule "submodules/payload-exchange"]
 	path = submodules/payload-exchange
 	url = https://github.com/microchipgnu/payload-exchange
+[submodule "submodules/hubble-ai-trading"]
+	path = submodules/hubble-ai-trading
+	url = https://github.com/HubbleVision/hubble-ai-trading
