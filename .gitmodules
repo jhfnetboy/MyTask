@@ -13,3 +13,6 @@
 [submodule "submodules/halo"]
 	path = submodules/halo
 	url = https://github.com/humanlabs-kr/halo
+[submodule "submodules/zkx402"]
+	path = submodules/zkx402
+	url = https://github.com/chatresearch/zkx402
