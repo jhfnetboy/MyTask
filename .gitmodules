@@ -1,0 +1,6 @@
+[submodule "submodules/tasks"]
+	path = submodules/tasks
+	url = https://github.com/AAStarCommunity/Tasks
+[submodule "submodules/payload-exchange"]
+	path = submodules/payload-exchange
+	url = https://github.com/microchipgnu/payload-exchange
